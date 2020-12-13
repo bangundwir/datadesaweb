@@ -122,7 +122,7 @@
 									<?php endif; ?>
 								</form>
 								<hr/>
-								<div class="login-footer-bottom"><a href="https://github.com/OpenSID/OpenSID" target="_blank">OpenSID</a> <?= substr(AmbilVersi(), 0, 20)?></div>
+								<div class="login-footer-bottom">Desa <a href="http://desa-toyomarto.malangkab.go.id/" target="_blank"> TOYOMARTO</a> <?= substr(AmbilVersi(), 0, 20)?></div>
 							</div>
 						</div>
 					</div>
