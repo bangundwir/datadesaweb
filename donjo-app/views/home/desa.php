@@ -71,7 +71,7 @@
 		<div class='row'>
 			<?php if (isset($update_available) && $update_available): ?>
 				<div class='col-md-12'>
-					<div class="callout callout-success update">
+					<!-- <div class="callout callout-success update">
 						<h4><i class="fa fa-bullhorn"></i>&nbsp;&nbsp;Update Tersedia!</h4>
 						<p align="justify">
 							OpenSID <code><?=$latest_version ?></code> telah tersedia. Periksa catatan rilis untuk melihat daftar perubahan di versi ini. Sangat dianjurkan untuk update ke versi terkini, karena setiap rilis berisi perbaikan termasuk peningkatan keamanan data sejak versi yang anda gunakan saat ini <code><?=$current_version ?></code>. Petunjuk melakukan update dapat dilihat di <a href="https://github.com/OpenSID/OpenSID/wiki/Panduan-Update-OpenSID" target="_blank">sini</a>.
@@ -103,7 +103,7 @@
 								</div>
 							</div>
 						</div>
-					</div>
+					</div> -->
 				</div>
 			<?php endif; ?>
 			<div class='col-md-6'>
